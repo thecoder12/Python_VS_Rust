@@ -11,8 +11,8 @@ python3.14 test.py  7.98s user 0.03s system 99% cpu 8.043 total
 $>    
 
 ## RUST  
-$> rustc test.rs  
-$> time ./test  
+$> rustc Loop_and_Count_to_200M.rs  
+$> time ./Loop_and_Count_to_200M  
 Rust Count: 200000000  
 Rust Time Taken: 925.4450ms seconds  
 ./test  0.92s user 0.01s system 61% cpu 1.509 total  
