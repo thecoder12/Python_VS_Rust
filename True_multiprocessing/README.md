@@ -1,7 +1,7 @@
 # Python_VS_Rust
 Rust takes on Python for the performance fight
 
-# PROBLEM -  Loop and Count to 200 Million
+# PROBLEM - Threading
 
 ## PYTHON MULTI-THREADING
 $> time python3.14 Multi-threading.py  
