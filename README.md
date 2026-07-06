@@ -15,3 +15,7 @@ $> time rustc test.rs
 rustc test.rs  0.10s user 0.16s system 58% cpu 0.438 total  
 $>  
 
+## GO
+$> go run test.go  
+Go took: 41.187542ms
+$>  
