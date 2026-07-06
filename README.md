@@ -11,8 +11,11 @@ python3.14 test.py  7.98s user 0.03s system 99% cpu 8.043 total
 $>    
 
 ## RUST  
-$> time rustc test.rs  
-rustc test.rs  0.10s user 0.16s system 58% cpu 0.438 total  
+$> rustc test.rs 
+$> time ./test
+Rust Count: 200000000
+Rust Time Taken: 925.4450ms seconds
+./test  0.92s user 0.01s system 61% cpu 1.509 total
 $>  
 
 ## GO
